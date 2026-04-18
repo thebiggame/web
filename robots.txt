@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thebiggame.github.io/web/sitemap.xml
